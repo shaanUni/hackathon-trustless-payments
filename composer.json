@@ -11,7 +11,9 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/tinker": "^2.10.1",
+        "paragonie/constant_time_encoding": "^3.1",
+        "rybakit/msgpack": "^0.9.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -27,7 +29,11 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+        "classmap": [
+            "backend/php-algorand-sdk/sdk",
+            "backend/php-algorand-sdk"
+          ]
     },
     "autoload-dev": {
         "psr-4": {

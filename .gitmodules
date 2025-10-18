@@ -1,0 +1,3 @@
+[submodule "backend/php-algorand-sdk"]
+	path = backend/php-algorand-sdk
+	url = https://github.com/ffsolutions/php-algorand-sdk.git
