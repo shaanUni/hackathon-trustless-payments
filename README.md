@@ -7,7 +7,6 @@ Each component is optimized for speed, low fees, and global accessibility while 
 **Demo Video:** [https://www.loom.com/share/db2d2023eff542e3b56d746c7ec988bb?sid=9c939d8e-4112-4424-8c69-1b15a71e5ddb]  
 *Replace with your Loom video showing complete workflow and code walkthrough*
 
-![Landing Page](screenshots/landing.png) ![Employer Dashboard](screenshots/employer.png) ![Freelancer Portal](screenshots/freelancer.png) ![Wallet Connection](screenshots/wallet.png)
 <img width="1608" height="743" alt="image" src="https://github.com/user-attachments/assets/b9aa89dc-a6f9-41bc-9b04-8525298c6444" />
 <img width="1505" height="588" alt="image" src="https://github.com/user-attachments/assets/15523d55-1fdb-4ee1-a982-fabb526d14df" />
 
